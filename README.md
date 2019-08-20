@@ -8,9 +8,10 @@
 
 ### Clone, compile and run
 
-  git clone https://github.com/laib3/npong
-  cd npong
-  cd src
-  make
-  ./npong
+  
+    git clone https://github.com/laib3/npong
+    cd npong
+    cd src
+    make
+    ./npong
 
