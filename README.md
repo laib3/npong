@@ -1,5 +1,8 @@
 # NPONG
 
+## Screenshot
+![screenshot](screenshot.png)
+
 ## Installation
 
 ### Dependencies
