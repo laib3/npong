@@ -1,10 +1,10 @@
-# NPONG
+# Npong
 
 Npong is a pong clone written in C using the Ncurses library.
 
 The entire project has only an educational purpose.
 
-# THE AI
+## A.I.
 
 I wrote a simple AI for the COM:
   
