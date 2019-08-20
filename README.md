@@ -8,6 +8,11 @@
 ### Dependencies
 
   + ncurses
+  
+#### Ubuntu
+
+    sudo apt-get install libncurses5-dev
+    
 
 ### Clone, compile and run
 
