@@ -2,7 +2,7 @@
 
 Npong is a pong clone written in C using the Ncurses library.
 
-The entire project has only an educational purpose.
+The entire project has only an educational purpose, and it's released under the GPLv3.
 
 ## A.I.
 
